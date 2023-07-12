@@ -1,3 +1,4 @@
+package src;
 public abstract class Cuenta {
     Client titular = new Client();
     protected double saldo; // protected ayuda a que, las clases hijas puedan ver variable

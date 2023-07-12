@@ -1,3 +1,4 @@
+package src;
 public abstract class Funcionario {
 	private String name;
 	private String document;
